@@ -244,6 +244,12 @@ h5 {
     font-weight: 700;
     display: none;
 }
+.ahmed-home-button {
+    color: #393939;
+    text-transform: uppercase;
+    font-weight: 700;
+    display: none;
+}
 
 .box-primary-nav-trigger .box-menu-icon {
     display: inline-block;
